@@ -13,6 +13,12 @@ const lista = [
     { id: 9, nome: "Aula 9", descricao: "Decorators" },
     { id: 10, nome: "Aula 10", descricao: "Promises e Async/Await" }
 
+
+
 ];
 
-console.log(lista);
+//lista.splice(0, 9);
+//lista.pop();
+
+console.log(lista.map((item) => item.nome));
+console.log(lista.map((item) => item.descricao));
