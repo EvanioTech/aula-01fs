@@ -3,7 +3,7 @@
 
 const lista = [
     { id: 1, nome: "Aula 1", descricao: "Introdução ao TypeScript" },
-    { id: 2, nome: "Aula 2", descricao: "Tipos de Dados" },
+    { id: 2, nome: "Aula 2", descricao: "Tipos de Dadoss" },
     { id: 3, nome: "Aula 3", descricao: "Estruturas de Controle" },
     { id: 4, nome: "Aula 4", descricao: "Funções" },
     { id: 5, nome: "Aula 5", descricao: "Classes e Objetos" },
