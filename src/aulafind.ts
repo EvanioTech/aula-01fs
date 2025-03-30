@@ -3,6 +3,7 @@ export interface Users {
     name: string;
     age: number;
     exibir?: boolean;
+    cards?: number[];
 }
 
 const users = [
